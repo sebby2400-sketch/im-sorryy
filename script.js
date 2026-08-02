@@ -22,7 +22,7 @@ button:"Next"
 },
 
 {
-emoji:"🫶",
+emoji:"💖",
 title:"My Promise",
 text:"I will do my best to show you through my actions how much I care about you.",
 button:"Next"
